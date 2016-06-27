@@ -1,0 +1,12 @@
+{
+	"latest_version":"1.0.0",
+    "is_admob":true,
+	"version":"PRODUCTION",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_human_body/draw_human_body_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_human_body/draw_human_body_category_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_human_body/",
+    "google_analytic_id":"UA-51272761-19",
+    "admob_banner_id":"ca-app-pub-4322965078780162/7319378338",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/8796111534",
+    "itune_url":"itms://itunes.apple.com/us/app/apple-store/###?mt=8"
+}
