@@ -8,5 +8,7 @@
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/human_body/master/",
     "admob_banner_id":"ca-app-pub-4322965078780162/7319378338",
     "admob_interstitial_id":"ca-app-pub-4322965078780162/8796111534",
-    "itune_url":"http://itunes.apple.com/app/id1104650269"
+    "itune_url":"http://itunes.apple.com/app/id1104650269",
+    "startapp_dev_id":"101443341",
+	"startapp_app_id":"203912744"
 }
