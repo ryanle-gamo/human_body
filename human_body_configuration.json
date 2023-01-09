@@ -1,11 +1,12 @@
 {
 "latest_version": "1.2.0",
-"is_testing": true,
+"is_testing": false,
 "is_update_forced": false,
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/human_body/master/draw_human_body_category.json",
 "category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/human_body/master/draw_human_body_category_alpha.json",
 "file_url": "https://raw.githubusercontent.com/ryanle-gamo/human_body/master/",
 "appstore_url": "https://apps.apple.com/us/app/id1104650269",
   "stop_step_index_at":3,
-  "is_idfa_enabled":true
+  "is_idfa_enabled":true,
+  "isDetailAdsFloat": true
 }
