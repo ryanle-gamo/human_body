@@ -1,5 +1,5 @@
 {
-"latest_version": "1.2.3",
+"latest_version": "1.2.4",
 "is_testing": false,
 "is_update_forced": false,
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/human_body/master/draw_human_body_category.json",
@@ -8,5 +8,5 @@
 "appstore_url": "https://apps.apple.com/us/app/id1104650269",
   "stop_step_index_at":3,
   "is_idfa_enabled":true,
-  "isDetailAdsFloat": true
+  "isDetailAdsFloat": false
 }
